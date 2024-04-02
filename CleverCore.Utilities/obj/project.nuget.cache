@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+GbYWbhmxmts8p+p0L5JDT5P5LoBtIF3SfTPHqvvIFqt28ACsTcmKOq12cqFBXy/gq9OMZfrLSqpv/3CAHUhzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\unit test\\CleverCore-second\\CleverCore-master\\CleverCore.Utilities\\CleverCore.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\quang\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\quang\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

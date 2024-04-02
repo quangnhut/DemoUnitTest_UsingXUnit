@@ -1,0 +1,16 @@
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\bin\Debug\netcoreapp2.2\CleverCore.Data.deps.json
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\bin\Debug\netcoreapp2.2\CleverCore.Data.runtimeconfig.json
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\bin\Debug\netcoreapp2.2\CleverCore.Data.runtimeconfig.dev.json
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\bin\Debug\netcoreapp2.2\CleverCore.Data.dll
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\bin\Debug\netcoreapp2.2\CleverCore.Data.pdb
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\bin\Debug\netcoreapp2.2\CleverCore.Infrastructure.dll
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\bin\Debug\netcoreapp2.2\CleverCore.Infrastructure.pdb
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.csproj.AssemblyReference.cache
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.AssemblyInfoInputs.cache
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.AssemblyInfo.cs
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.csproj.CoreCompileInputs.cache
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.csproj.CopyComplete
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.dll
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.pdb
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Data\obj\Debug\netcoreapp2.2\CleverCore.Data.genruntimeconfig.cache

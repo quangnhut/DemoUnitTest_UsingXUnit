@@ -1,0 +1,10 @@
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\bin\Debug\netcoreapp2.2\CleverCore.Infrastructure.deps.json
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\bin\Debug\netcoreapp2.2\CleverCore.Infrastructure.dll
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\bin\Debug\netcoreapp2.2\CleverCore.Infrastructure.pdb
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\obj\Debug\netcoreapp2.2\CleverCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\obj\Debug\netcoreapp2.2\CleverCore.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\obj\Debug\netcoreapp2.2\CleverCore.Infrastructure.AssemblyInfo.cs
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\obj\Debug\netcoreapp2.2\CleverCore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\obj\Debug\netcoreapp2.2\CleverCore.Infrastructure.dll
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\obj\Debug\netcoreapp2.2\CleverCore.Infrastructure.pdb
+D:\Project\unit test\CleverCore-second\CleverCore-master\CleverCore.Infrastructure\obj\Debug\netcoreapp2.2\CleverCore.Infrastructure.csproj.AssemblyReference.cache
