@@ -46,7 +46,7 @@ namespace CleverCore.WebApp
         {
             services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"),
-                o => o.MigrationsAssembly("TeduCoreApp.Data.EF")));
+                o => o.MigrationsAssembly("TechCoreApp.Data.EF")));
 
             services.AddIdentity<AppUser, AppRole>()
                 .AddEntityFrameworkStores<AppDbContext>()
@@ -193,7 +193,7 @@ namespace CleverCore.WebApp
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-            loggerFactory.AddFile("Logs/tedu-{Date}.txt");
+            loggerFactory.AddFile("Logs/tech-{Date}.txt");
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -214,7 +214,7 @@ namespace CleverCore.WebApp
             app.UseCors("CorsPolicy");
             app.UseSignalR(routes =>
             {
-                routes.MapHub<TeduHub>("/teduHub");
+                routes.MapHub<TeduHub>("/techHub");
             });
             app.UseMvc(routes =>
             {

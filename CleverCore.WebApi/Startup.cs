@@ -27,9 +27,9 @@ namespace CleverCore.WebApi
         {
             services.AddDbContext<AppDbContext>(options =>
                    options.UseSqlServer(Configuration.GetConnectionString("AppDbConnection"),
-                       b => b.MigrationsAssembly("TeduCore.Data.EF")));
+                       b => b.MigrationsAssembly("TechCore.Data.EF")));
 
-            services.AddCors(o => o.AddPolicy("TeduCorsPolicy", builder =>
+            services.AddCors(o => o.AddPolicy("TechCorsPolicy", builder =>
             {
                 builder.AllowAnyOrigin()
                     .AllowAnyMethod()
@@ -53,10 +53,10 @@ namespace CleverCore.WebApi
                 s.SwaggerDoc("v1", new Info
                 {
                     Version = "v1",
-                    Title = "TEDU Project",
-                    Description = "TEDU API Swagger surface",
-                    Contact = new Contact { Name = "ToanBN", Email = "tedu.international@gmail.com", Url = "http://www.tedu.com.vn" },
-                    License = new License { Name = "MIT", Url = "https://github.com/teduinternational/teducoreapp" }
+                    Title = "Unit Test Project",
+                    Description = "Unit Test API Swagger surface",
+                    Contact = new Contact { Name = "Admin007", Email = "testmail@gmail.com", Url = "http://www.test.com.vn" },
+                    License = new License { Name = "MIT", Url = "https://github.com/quangnhut/DemoUnitTest_UsingXUnit" }
                 });
             });
         }
@@ -70,7 +70,7 @@ namespace CleverCore.WebApi
             }
 
             app.UseStaticFiles();
-            app.UseCors("TeduCorsPolicy");
+            app.UseCors("TechCorsPolicy");
 
             app.UseSwagger();
             app.UseSwaggerUI(s =>
